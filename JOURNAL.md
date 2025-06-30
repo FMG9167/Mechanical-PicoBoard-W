@@ -31,3 +31,17 @@ So many of the keys did not align with the dxf it was sooo painful having to fix
 I also searched for some keycaps to use. Couldn't find anything cheap. Will either have them 3d printed or if i find some cheap enough keycaps ill use those.
 
 **Time spent: 4h**
+
+# June 30th:
+
+Today i wired all the diodes and switches. As i foreshadowed, i did change the schematic. But in the end i just gave up and created these long diagonal columns.
+
+This time i actually used both the front and backside of the pcb, unlike in my macropad.
+
+![wired pcb1](images/June-30.png)
+
+![updated schematic](images/June-30-2.png)
+
+Now that i look at it, i think the pico and battery would have been better off beside the arrow keys.
+
+**Time spent: 4h**
