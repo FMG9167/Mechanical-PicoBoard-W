@@ -65,7 +65,7 @@ I started first with the 1x1 keys as they were the maximum in number. Upon tryin
 
 The _Model only have the switch whereas _Model_Rx has keycaps corresponding to their row.
 
-![Model with only u1](images-July-5-6.png)
+![Model with only u1](images/July-5-6.png)
 
 After this I took a short break, and then started with the rest of the keys
 
