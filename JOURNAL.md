@@ -61,7 +61,7 @@ Found some good models on gradcad
 
 I started first with the 1x1 keys as they were the maximum in number. Upon trying to save, it repeatedly gave me permission error, which i bypassed by saving them as new footprints.
 
-![error](images/July-5-4.png) ![bypass](images-July-5-5.png)
+![error](images/July-5-4.png) ![bypass](images/July-5-5.png)
 
 The _Model only have the switch whereas _Model_Rx has keycaps corresponding to their row.
 
