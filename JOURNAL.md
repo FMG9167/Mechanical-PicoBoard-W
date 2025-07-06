@@ -91,3 +91,30 @@ Then i calmed myself down, switched to a different model for each of them. It up
 [Ignore the knob i didnt know how tall to make it T-T]
 
 **Time Spent: 6h**
+
+# July 6th:
+
+Starting the case today.
+
+The basic outside is done, but the pcb does not look good in there
+
+![CAD 1](images/July-6.png)
+
+aaaaaaand i scraped it cuz i couldnt get the dimensions correct. This time ill do the dimensions without already having the pcb imported as i cannot create rectangles off of the pcb's corners.
+
+I finished the bottom case i think.
+
+![Bottom](images/July-6-2.png)
+
+![Bottom's bottom](images/July-6-3.png)
+
+I will add a slot in the top cover through which ill change the battery. It will be covered with an acrylic sheet.
+
+Also i found this new thingy which makes curved edges.
+![Cool thing](images/July-6-4.png)
+
+I did that by going in the fillet option and setting corner type to "Setback"
+
+Overall pretty happy with todays work
+
+**Time spent: 5h**
