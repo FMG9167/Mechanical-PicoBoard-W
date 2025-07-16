@@ -118,3 +118,11 @@ I did that by going in the fillet option and setting corner type to "Setback"
 Overall pretty happy with todays work
 
 **Time spent: 5h**
+
+# July 16th
+
+It appears that my windows partition's mft got corrupted and i am unable to recover my data. So i will be restarting from scratch, and make sure to backup the kicad files as well.
+
+![Corrupted data](images/July-16.png)
+
+**Time spent: 0h**
