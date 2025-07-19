@@ -126,3 +126,31 @@ It appears that my windows partition's mft got corrupted and i am unable to reco
 ![Corrupted data](images/July-16.png)
 
 **Time spent: 0h**
+
+# July 18th
+
+Today, my plan is to redo the full pcb and probably finish the model for the case. My previous attempt taught me a lot so I think I can finish it today itself.
+
+This time i decided to change the layout a bit as well. The function key will switch the keys with front legend to those keys, like function and w will be F2. On the right side are controls for mouse. I might change and add things to move the cursor as well.
+![Layout](images/July-18.png)
+
+
+Schematic is done. Forgot which library I used for the cell holder, but then realized that I had just used a battery symbol (checked previous entry).
+![Schematic](images/July-18-1.png)
+
+Time to start making the PCB.
+
+It was faster this time as I didnt think much about symmetry of diodes and just placed them. Routing was fun still.
+![PCB](images/July-18-2.png)
+
+Finished making the bottom of the case. Added a bit of incline as well for better hand positioning.
+![Bottom Case](images/July-18-3.png)
+
+I am pretty frustrated by onshape cuz idk how to use it well so i am going to download fusion360 anyway I find. I downloaded VMWare and installed fusion360 there :).
+Ok i spent a long time trying to make it work on vmware but it didnt so i am learning onshape only.
+
+
+It took a long time but i finished the case. I couldnt add the keys cuz my pc couldnt handle 1170 parts T-T. I may add the keycaps tomorrow if I feel like it.
+![Full Case](images/July-18-4.png)
+
+**Time spent: 10h**
