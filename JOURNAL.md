@@ -5,6 +5,8 @@ description: "A wireless bluetooth keyboard made with raspberry pi pico w"
 created_at: "2025-06-27"
 ---
 
+## TOTAL TIME 42HRS
+
 # June 28th: 
 
 Today i started by making the basic schematic and researching on how the keyboard will actually work over bluetooth.
@@ -154,3 +156,29 @@ It took a long time but i finished the case. I couldnt add the keys cuz my pc co
 ![Full Case](images/July-18-4.png)
 
 **Time spent: 10h**
+
+# July 22nd
+I couldn't do anything much on the previous days as I had back to back exams. Today I added all the keys and keycaps, and made a knob for the encoder
+
+Adding the keys was simple, I just imported them into OnShape and then created 68 instances of it in the assembly.
+![Single Key](images/July-22.png)
+![All keys](images/July-22-1.png)
+I can feel the models taking toll on my browser.
+
+Then i added the keycaps, and this took a long time. I had to create different assemblies for each type of keycap like R1 1u, R2 1u etc. It was a very tedious process, I know there is an easier way but I am not experienced with onshape enough for that (and am too lazy to google). When I was arranging the keycaps on top of the switches, I had to hide everything except the row I was working of because otherwise it would LAG LIKE HELL.
+![keycaps](images/July-22-2.png)
+![Keycaps Arranged](images/July-22-3.png)
+
+Making the knob was pretty easy. I just subtracted the encoder's shaft from a cylinder.
+![Knob](images/July-22-4.png)
+![Knob on Encoder](images/July-22-5.png)
+
+Also I added silkscreen art to my pcb :).
+![Silkscreen art](images/July-22-6.png)
+
+When I thought that I could finally ship my project, I remembered that I have made absolutely no firmware whatsoever. So I guess ill do that now. Oh right BOM is also left.
+
+Ok so I wrote the firmware while referencing to the documentation. I will adjust it later when I actually get the board.
+Created the BOM.csv . I cant use AliExpress due to customs in India (They even blocked its domain).
+
+**Time spent: 8h**
