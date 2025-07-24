@@ -33,6 +33,7 @@ For the Firmware, I used KMK with CircuitPy.
 5x PCB                   - 4680 inr <br>
 40x Female Berg Strip    - 9 inr <br>
 40x Male Berg Strip      - 6 inr <br>
+Case                     - printing legion <br>
 
 ### TOTAL 8835 INR = 102.37 USD
 
