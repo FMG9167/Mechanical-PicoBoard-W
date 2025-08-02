@@ -5,7 +5,7 @@ description: "A wireless bluetooth keyboard made with raspberry pi pico w"
 created_at: "2025-06-27"
 ---
 
-## TOTAL TIME 42HRS
+## TOTAL TIME 46HRS
 
 # June 28th: 
 
@@ -182,3 +182,11 @@ Ok so I wrote the firmware while referencing to the documentation. I will adjust
 Created the BOM.csv . I cant use AliExpress due to customs in India (They even blocked its domain).
 
 **Time spent: 8h**
+
+# August 2nd
+
+Case was too simple so I made changes
+![Img 1](images/Aug-2.png)
+![Img 2](images/Aug-2-2.png) 
+
+**Time spent: 4h**
