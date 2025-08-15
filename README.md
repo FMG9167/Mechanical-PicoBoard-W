@@ -2,15 +2,15 @@
 A wireless mechanical keyboard made using raspberry pi pico W.
 This keyboard has a split spacebar, in which the middle button acts as a function key. The function keys are switched from numbers to QWERASDFZXCV and on the right side, OP[ acts as mouse buttons.
 
-<img width="1505" height="703" alt="image" src="https://github.com/user-attachments/assets/20efd963-6dc4-493f-b0ec-58676298e850" />
+<img width="1237" height="563" alt="image" src="https://github.com/user-attachments/assets/65444600-a2b7-4d89-9402-5d07b35ca065" />
 <img width="884" height="291" alt="image" src="https://github.com/user-attachments/assets/f094c5a5-49b4-4aa2-972e-9e0333e46d72" />
 
 While I was making my Hackpad (Macropad), I saw people making keyboards and I realized that I actually didnt knew how a mechanical keyboard works. So what better way to learn than to make one yourself!
 
 # CAD
 
-<img width="1560" height="780" alt="image" src="https://github.com/user-attachments/assets/7a1ee0a2-11ae-4ac0-a213-fb827abe5788" />
-<img width="1283" height="767" alt="image" src="https://github.com/user-attachments/assets/66d52776-745a-4e41-9c41-76b3106e7c7a" />
+<img width="1326" height="619" alt="image" src="https://github.com/user-attachments/assets/03af0c26-e619-4df9-839d-c3cdae51462b" />
+<img width="1121" height="762" alt="image" src="https://github.com/user-attachments/assets/78bcb3a6-396a-477b-8b4c-830fef60b6b2" />
 
 # PCB
 
