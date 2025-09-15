@@ -1,14 +1,20 @@
 ITEM,UNIT COST,QUANTITY,TOTAL COST,REMARKS,SOURCE
-Raspberry Pi Pico W,578,1,578,Other places it is out of stock,https://robocraze.com/products/raspberry-pi-pico-w
+Raspberry Pi Pico W,599,1,599,Other places it is out of stock,https://makerbazar.in/products/raspberry-pi-pico-development-boards?variant=47233117389040
 Key Switches,17.5,70,1225,Comes in pack of 10,https://stackskb.com/store/gateron-g-pro-3-0-yellow-ks-9-linear-switch-pack-of-10/
 Key Caps,2199,1,2199,,https://stackskb.com/store/sikakeyb-doubleshot-pbt-keycaps-two-tone-green-and-grey/
-Battery Holder,39,1,39,,https://makerbazar.in/products/high-quality-18650-smd-smt-battery-holder-case?variant=46543756394736
+Battery Holder,59,1,59,out of stock literally everywhere,https://roboticsdna.in/product/18650-smd-smt-high-quality-single-battery-holder/
 1N4148 Diodes,0.99,100,99,Comes in pack of 100,https://makerbazar.in/products/dip-rectifier-diode-through-hole?variant=46889718120688
-PCB,936,5,4680,Comes in 5 qty. Cheaper than seeed,https://lioncircuits.com
-Female berg strip,0.225,40,9,Pack of 40,https://robocraze.com/products/40x1-female-berg-strip?_pos=1&_sid=3452a2391&_ss=r
+PCB,864,5,4320,Cheapest no customs option,https://robu.in/product/online-pcb-manufacturing-service/
+Female berg strip,0.2125,40,8.5,Pack of 40,https://robocraze.com/products/40x1-female-berg-strip?_pos=1&_sid=3452a2391&_ss=r
 Male berg strip,6.67,40,6,Pack of 40,https://makerbazar.in/products/berg-strip-40-pins
 M3x16mm screws,0,4,0,Already have,
 Case,0,0,0,Printing Legion,
-,,INR,8835,,
-,,USD,102.3754345,Excluding shipping (2-3usd),
+,,INR,8515.5,,
+,,USD,96.59,Excluding shipping,
 I cant use Aliexpress as it end up costing more than current due to customs T-T,,,,,
+Maker Bazar shipping,50,,,,
+Robu shipping,0,,,,
+RoboticsDNA shipping,85,,,,
+Printing Legion,500,,,,
+,,INR,9150.5,,
+,,USD,103.8,Including taxes and shipping,
