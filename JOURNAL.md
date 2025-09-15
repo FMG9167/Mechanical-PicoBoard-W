@@ -190,3 +190,10 @@ Case was too simple so I made changes
 ![Img 2](images/Aug-2-2.png) 
 
 **Time spent: 4h**
+
+# August 15th
+
+A lot of places I was getting stuff from ran out of them so i had to update the bom. I fixed the gerbers as well.
+This happened in multiple sessions over 3 days so imma just write 2hrs.
+
+**Time spent: 2h**

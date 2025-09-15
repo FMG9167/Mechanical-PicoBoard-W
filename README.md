@@ -25,17 +25,17 @@ For the Firmware, I used KMK with CircuitPy.
 
 # BOM
 
-1x Raspberyy Pi Pico W   - 578 inr <br>
+1x Raspberyy Pi Pico W   - 599 inr <br>
 70x Switches             - 1225 inr <br>
 1x Keycap Set            - 2199 inr <br>
 1x Battery Holder        - 59 inr <br>
 100x 1N4148 Diodes       - 99 inr <br>
-5x PCB                   - 4680 inr <br>
-40x Female Berg Strip    - 9 inr <br>
+5x PCB                   - 4320 inr <br>
+40x Female Berg Strip    - 8.5 inr <br>
 40x Male Berg Strip      - 6 inr <br>
 M3x16mm Screw            - 0 inr <br>
 Case                     - printing legion <br>
 
-### TOTAL 8835 INR = 102.37 USD
+### TOTAL 8515.5 INR = 96.59 USD
 
-Shipping will cost like 2-3usd
+With shipping it is 103.8 usd
