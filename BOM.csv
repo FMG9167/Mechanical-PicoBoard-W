@@ -2,6 +2,7 @@ ITEM,UNIT COST,QUANTITY,TOTAL COST,REMARKS,SOURCE
 Raspberry Pi Pico W,599,1,599,Other places it is out of stock,https://makerbazar.in/products/raspberry-pi-pico-development-boards?variant=47233117389040
 Key Switches,17.5,70,1225,Comes in pack of 10,https://stackskb.com/store/gateron-g-pro-3-0-yellow-ks-9-linear-switch-pack-of-10/
 Key Caps,2199,1,2199,,https://stackskb.com/store/sikakeyb-doubleshot-pbt-keycaps-two-tone-green-and-grey/
+Stabilizers,80,5,400,,https://stackskb.com/store/durock-white-plate-mount-stabilizers/?attribute_combination=2U
 Battery Holder,59,1,59,out of stock literally everywhere,https://roboticsdna.in/product/18650-smd-smt-high-quality-single-battery-holder/
 1N4148 Diodes,0.99,100,99,Comes in pack of 100,https://makerbazar.in/products/dip-rectifier-diode-through-hole?variant=46889718120688
 PCB,864,5,4320,Cheapest no customs option,https://robu.in/product/online-pcb-manufacturing-service/
@@ -9,12 +10,13 @@ Female berg strip,0.2125,40,8.5,Pack of 40,https://robocraze.com/products/40x1-f
 Male berg strip,6.67,40,6,Pack of 40,https://makerbazar.in/products/berg-strip-40-pins
 M3x16mm screws,0,4,0,Already have,
 Case,0,0,0,Printing Legion,
-,,INR,8515.5,,
-,,USD,96.59,Excluding shipping,
+,,INR,9015.5,,
+,,USD,102.67,Excluding shipping,
 I cant use Aliexpress as it end up costing more than current due to customs T-T,,,,,
 Maker Bazar shipping,50,,,,
 Robu shipping,0,,,,
 RoboticsDNA shipping,85,,,,
 Printing Legion,500,,,,
-,,INR,9150.5,,
-,,USD,103.8,Including taxes and shipping,
+StacksKB shipping,100,,,,
+,,INR,9650.5,,
+,,USD,109.9,Including taxes and shipping,

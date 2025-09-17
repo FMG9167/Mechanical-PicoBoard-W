@@ -197,3 +197,9 @@ A lot of places I was getting stuff from ran out of them so i had to update the 
 This happened in multiple sessions over 3 days so imma just write 2hrs.
 
 **Time spent: 2h**
+
+# August 17th
+
+DID I SERIOUSLY FORGOT TO ORDER STABILIZERS AND REMEMBERED ABOUT THEM WHEN I RECEIVED MY ORDER????? that is so not good.
+
+**Time spent: 0h**
